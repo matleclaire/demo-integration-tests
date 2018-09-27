@@ -1,0 +1,6 @@
+# Following lines can be uncommented if you need to custom some of them.
+
+#spring.data.mongodb:
+#  database: myCustomDB
+#  host: localhost
+#  port: 27017
